@@ -1,0 +1,33 @@
+ul {
+    list-style-type: none;
+}
+
+.main {
+    margin-left: 10px;
+}
+
+.imageFloat {
+    float: left;
+}
+
+.topDiv {
+    min-height: 200px;
+    margin-top: 8px;
+    margin-left: 190px;
+}
+
+h1 {
+    font-size: 50px; !important
+}
+
+.eduEstablishments {
+    list-style-type: square;
+}
+
+.profExpLi li:nth-child(odd) {
+    background-color: #f5f5f5;
+}
+
+.professional-experience {
+    margin-left: 8px;
+}
